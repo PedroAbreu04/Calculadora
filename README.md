@@ -1,10 +1,10 @@
-# calculadora
+# Calculadora
 
 > Status: Finalizado ✔️
 
 Link: https://pedroabreu04.github.io/Portfolio/index.html
 
-<p>Meu portifólio responsivo desenvolvido para demonstrar minhas competências e qualificações, afim de me destacar no mercado de trabalho</p>
+<p>Projeto Calculadora desenvolvido no curso da Udemy (Domine Web)</p>
 
 ### Tecnologia Usadas:
 <table>

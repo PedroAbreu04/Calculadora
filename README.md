@@ -2,7 +2,7 @@
 
 > Status: Finalizado ✔️
 
-Link: https://pedroabreu04.github.io/Portfolio/index.html
+Link: https://pedroabreu04.github.io/Calculadora/
 
 <p>Projeto Calculadora desenvolvido no curso da Udemy (Domine Web)</p>
 
@@ -17,7 +17,7 @@ Link: https://pedroabreu04.github.io/Portfolio/index.html
 
 ### Como usar:
 <ol>
-  <li>Acesse o link: https://pedroabreu04.github.io/Portfolio/index.html</li>
+  <li>Acesse o link: https://pedroabreu04.github.io/Calculadora/</li>
 </ol>
 
 
